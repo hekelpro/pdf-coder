@@ -1,6 +1,6 @@
 # PDF-CODER
-+ SOURCE<a href="https://books.goalkicker.com/"> Click Here<br>
-+ Follow May Facebook<a href="https://www.facebook.com/riski.darmawan.1690671"> Rizky ID<br>
++ SOURCE<a href="https://books.goalkicker.com/"> Click Here</br>
++ Follow My Facebook<a href="https://www.facebook.com/riski.darmawan.1690671"> Rizky ID<br>
 # INSTALL
 ```php
 pkg update && pkg upgrade
