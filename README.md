@@ -6,6 +6,7 @@
 $ pkg update && pkg upgrade
 $ pkg install python git -y
 $ python3 -m pip install requests bs4
+$ pip install progressbar2
 $ git clone https://github.com/hekelpro/pdf-coder
 $ cd pdf-coder
 $ python pdf.py
